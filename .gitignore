@@ -9,3 +9,5 @@ __pycache__/
 *.zip
 *.txt
 *.json
+*.png
+*.git
